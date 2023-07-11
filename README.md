@@ -7,5 +7,5 @@
 
 
 ## Minhas redes 
-[Linkedin](https://www.linkedin.com/in/tereza-zw/)
-[Github](https://github.com/Tetezw)
+- [Linkedin](https://www.linkedin.com/in/tereza-zw/)
+- [Github](https://github.com/Tetezw)
