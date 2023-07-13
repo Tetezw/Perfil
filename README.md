@@ -1,11 +1,27 @@
-# Meu perfil
+# DevLinks
 
-- [x] [Projeto Hotel - Front-end](https://tetezw.github.io/hotel_T.EX/hotelvue/dist/#/)
-- [x] [Projeto Hotel - Back-end](https://github.com/hewertonfl/PROJETO_HOTEL_T.EX_FULLSTACK)
-- [x] [Projeto CSS](https://github.com/Tetezw/Projeto_CSS_Individual_T.EX)
-- [x] [Desafio Javascript](https://github.com/Tetezw/T.EX-Desafio_07-11)
+Programa exclusivo e gratuito, promovido pela [Rocketseat](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito) para ensino de tecnologias WEB.
 
+<p align="center">
+<img alt="Capa DevLinks da Rocketseat" src=".github/Cover.png" width="80%"/>
+</p>
+
+## Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+
+## O projeto
+É um agregador de links para usar como cartão de visitas online.
+- Acesse meu projeto finalizado [AQUI](https://tetezw.github.io/Perfil/).
 
 ## Minhas redes 
 - [Linkedin](https://www.linkedin.com/in/tereza-zw/)
 - [Github](https://github.com/Tetezw)
+
+
+## Licença 
+Esse projeto está sob a licença MIT.
